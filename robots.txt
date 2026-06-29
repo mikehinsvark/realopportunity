@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+Disallow: /api/*
+Sitemap: https://4mscorecard-dreams.manus.space/sitemap.xml
